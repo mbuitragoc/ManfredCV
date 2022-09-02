@@ -97,6 +97,39 @@
       },
       {
         "details": {
+          "name": "Pet Nursery",
+          "description": "A pet nursery control app, that allows the user to add and retire pets from the nursery",
+          "URL": "https://github.com/mbuitragoc/JS_Entregables/tree/main/Entrega%20Final"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Dogotora Kathe",
           "description": "I created a Basic Page for a local veterinary and pet groomer advertising the services and showing some of the customers",
           "URL": "https://mbuitragoc.github.io/DogtoraKathe/"
