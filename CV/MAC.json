@@ -94,6 +94,35 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Dogotora Kathe",
+          "description": "I created a Basic Page for a local veterinary and pet groomer advertising the services and showing some of the customers",
+          "URL": "https://mbuitragoc.github.io/DogtoraKathe/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
