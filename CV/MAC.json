@@ -1,0 +1,296 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel Angel",
+      "surnames": "Buitrago Castillo",
+      "description": "I enjoy creating new expiriences and solving issues and situations that arrive along the way",
+      "avatar": {
+        "alt": "1625353645389.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/02/f167105e-3a04-49c0-be3b-d3c1fb32a852_1625353645389.jpg"
+      },
+      "location": {
+        "notes": "Bogotá, Colombia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/mbuitragoc"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mbuitragoc/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Conduent"
+        },
+        "roles": [
+          {
+            "name": "Customer Support",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "I provide customer support to the users of Groupon's Marketplace|"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Zendesk",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Manga Store",
+          "description": "I created an ecommerce for a Manga store, working with React and Firebase  to create a simple front",
+          "URL": "https://ecommerce-mangas-mbuitragoc.vercel.app"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-07-01",
+            "finishDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "React JS",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Coderhouse",
+          "description": "A React course, we focused on the use of the library, routes, promps. I created an ecommerce site for a manga store using Firebase and React",
+          "image": {
+            "alt": "coderhouse-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/02/f73c44cb-f11b-4ebe-be43-f4bc2085e3de_coderhouse-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingenieria Informatica",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Universidad Militar Nueva Granada",
+          "description": "A degree in Informatics engineering coursed from the FAEDIS at UMNG"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "JavaScript",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "Coderhouse",
+          "description": "A Javascript course dictated on CoderHouse, I created a Pet Nursery for a local Veterinary",
+          "URL": "https://www.coderhouse.com.co/certificados/62e54c4940abc0001977f549",
+          "image": {
+            "alt": "coderhouse-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/02/37b4fe7a-698d-47af-9a54-92dfa73d89d8_coderhouse-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo Web",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Coderhouse",
+          "description": "A web Development Course from CorderHouse",
+          "URL": "https://www.coderhouse.com.co/certificados/6299227a18d060001a188e09",
+          "image": {
+            "alt": "coderhouse-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/02/e4c01119-b1c1-42a0-b68e-6cafb1cd1deb_coderhouse-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mbuitragoc/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
