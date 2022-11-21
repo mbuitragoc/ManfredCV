@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,7 +14,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/02/f167105e-3a04-49c0-be3b-d3c1fb32a852_1625353645389.jpg"
       },
       "location": {
-        "notes": "Bogotá, Colombia"
+        "country": "Colombia",
+        "region": "Bogotá",
+        "municipality": "Bogotá",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -170,10 +173,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -360,7 +365,12 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
