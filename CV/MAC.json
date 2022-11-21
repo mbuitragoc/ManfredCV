@@ -190,19 +190,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -214,7 +202,25 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
           "type": "technology"
         }
       }
