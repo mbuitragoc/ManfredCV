@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Colombia",
         "region": "Bogotá",
-        "municipality": "Bogotá",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Bogotá"
       }
     },
     "relevantLinks": [
@@ -174,12 +173,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -227,6 +224,47 @@
       }
     ],
     "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "React JS",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Coderhouse",
+          "description": "I built a manga ecommerce website using React",
+          "URL": "https://www.coderhouse.com.co/certificados/634825ed9cabe1000faa6e9f",
+          "image": {
+            "alt": "LogoCoder.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/6153893e-d958-4b60-9ac4-119e5cf8ae56_logocoder.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Karma",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
@@ -377,7 +415,6 @@
         "Backend Developer",
         "Frontend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
